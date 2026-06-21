@@ -492,6 +492,6 @@ This project demonstrates the application of SQL skills in creating and managing
 4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
 
 ## Email
-abhishek.mutant88@gmail.com
+abhishekmadanu132@gmail.com
 
 Thank you for your interest in this project!
